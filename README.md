@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aqli8anvpt3i5hb6?svg=true)](https://ci.appveyor.com/project/maxnovnn/patterns-1)
